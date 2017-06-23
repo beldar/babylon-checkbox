@@ -4,7 +4,7 @@ This component mimics the functionality provided by a checkbox and a label but w
 
 ## Usage
 
-```js
+```jsx
 <CheckboxWithLabel
   id="my-checkbox"
   value="is-checked"
@@ -19,7 +19,7 @@ will be used to display the label copy.
 
 Alternatively you also use the `Checkbox` component by itself:
 
-```js
+```jsx
 <Checkbox
   id="my-checkbox"
   value="is-checked"
