@@ -1,0 +1,12 @@
+.checkbox-with-label {
+  position: relative;
+  margin: 1rem auto;
+  display: block;
+}
+
+.label {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 10px;
+  cursor: pointer;
+}
